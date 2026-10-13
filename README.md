@@ -9,6 +9,8 @@
 
 # Introduction to GitHub
 
+I am Learning how to use GitHub.
+
 _Get started using GitHub in less than an hour._
 
 </header>
